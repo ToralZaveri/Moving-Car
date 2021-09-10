@@ -10,6 +10,7 @@ Pause, Resume, Increase, and Decrease.
 the resume button to resume at the regular speed.
 - The Increase and Decrease buttons will change the speed of the car
 accordingly.
+
 Implementation:
 Design a car:
 Pane is the easy set up and management of classic layout.
@@ -23,10 +24,12 @@ Using HBox, we have added some buttons in alignment.
 Using .setOnAction, it will allow the action to set.
 For example, We have used pause.setOnAction for pause button.
 Because of it, the car would pause.
+
 Result:
 After running the code, the car would move in a straight direction. By
 pressing the buttons, the car would change its speed.
 * I have attached a video in the folder.
+
 Conclusion:
 - Successfully worked through the project with javafx
 - Completed all the objectives
